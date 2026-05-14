@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+ipykernel
+tensorflow[and-cuda]
+tqdm 
+livelossplot
