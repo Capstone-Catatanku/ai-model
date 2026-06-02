@@ -6,3 +6,4 @@ tensorflow[and-cuda]
 ipykernel
 tqdm
 livelossplot
+seaborn
