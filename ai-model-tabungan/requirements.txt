@@ -1,8 +1,9 @@
 pandas
 numpy
 scikit-learn
-tensorflow
-ipykernel
+joblib
 tensorflow[and-cuda]
-tqdm 
+ipykernel
+tqdm
 livelossplot
+seaborn
