@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+tensorflow[and-cuda]
+ipykernel
+tqdm
+livelossplot
+seaborn
+tensorboard
