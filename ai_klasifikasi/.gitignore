@@ -1,1 +1,7 @@
-logs/
+# abaikan file log teks mentah punya server web
+*.log
+
+# aturan khusus buat tensorboard
+ai_klasifikasi/logs/*
+!ai_klasifikasi/logs/**.tfevents*
+
